@@ -13,7 +13,7 @@ The "I Am Rich" app consists of a single screen that displays an image of a diam
 
 ## Screenshots
 
-![App Screenshot](iamrich.jpg)
+![App Screenshot](iamrich.jpeg)
 
 ## Usage
 
